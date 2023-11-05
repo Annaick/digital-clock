@@ -5,5 +5,6 @@ screenshots:
 ![screen](https://github.com/Annaick/digital-clock/assets/125186842/e4bcbe29-f4bf-4dd9-99e3-4423fa2d8016)
 
 <br> <br>
-![Uploading screen-mobile.png…]()
+![screen-mobile](https://github.com/Annaick/digital-clock/assets/125186842/cfee2b05-aee8-4ef0-974a-4d3088bdaae6)
+
 
