@@ -2,7 +2,8 @@
 A simple digital clock web page I made
 
 screenshots:
-![Firefox 05_11_2023 21_49_05](https://github.com/Annaick/digital-clock/assets/125186842/418c4e9e-fd40-4e63-8479-1424f0cf9743)
+![Firefox 05_11_2023 21_59_45](https://github.com/Annaick/digital-clock/assets/125186842/6ad49051-50e3-4db2-a9dc-8ed470e4f3fe)
+
 
 
 <br> <br>
